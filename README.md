@@ -1,3 +1,3 @@
 # Gitチュートリアル
 
- - feature-A
+ - feature-A( retry)
